@@ -1,0 +1,32 @@
+table{
+    border-collapse: collapse;
+    width: 100%;
+}
+  
+  th,
+  td {
+    border: 1px solid #ffffff;
+    text-align: left;
+    padding: 8px;
+    font-size: 25px;
+  }
+  
+ .pasth {
+    background-color: rgb(250, 117, 117);
+  }
+  
+  .pastb {
+    background-color: rgb(253, 205, 205);
+  } 
+
+  .pth{
+    background-color: rgb(117, 250, 172);
+  }
+
+  
+  h1{
+      font-size: 45px;
+      font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  }
+
+  
